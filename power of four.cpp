@@ -24,7 +24,7 @@ private:
         }
     }
 public:
-    bool isPowerOfThree(int n) {
+    bool isPowerOfFour(int n) {
         return isPow(n);
     }
 };
